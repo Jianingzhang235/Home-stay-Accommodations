@@ -40,7 +40,7 @@
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git",
     "frisby": "^2.1.1",
     "jest": "^24.8.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jshint": "^2.10.2",
     "mocha": "^6.1.4",
     "request": "^2.88.0",
