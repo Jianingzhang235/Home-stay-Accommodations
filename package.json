@@ -15,7 +15,7 @@
     "start": "nodemon --ignore node_modules server"
   },
   "dependencies": {
-    "@hapi/joi": "^15.0.3",
+    "@hapi/joi": "^15.1.1",
     "body-parser": "^1.17.0",
     "cassandra-driver": "^4.1.0",
     "cors": "^2.8.5",
